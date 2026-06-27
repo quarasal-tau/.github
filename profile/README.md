@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="profile1" src="https://github.com/user-attachments/assets/17f8bd69-ac05-4e60-a9c0-555a7e0cd690" />
+
 # Quarasal Tau Engineering
 
 **Build Strong. Build Smart. Build the Future.**
